@@ -1,0 +1,9 @@
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\bin\Debug\MainGame.exe.config
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\bin\Debug\MainGame.exe
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\bin\Debug\MainGame.pdb
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\obj\Debug\MainGame.csprojResolveAssemblyReference.cache
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\obj\Debug\MainGame.Properties.Resources.resources
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\obj\Debug\MainGame.csproj.GenerateResource.Cache
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\obj\Debug\MainGame.exe
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\obj\Debug\MainGame.pdb
+D:\STUDY\4th semester\MultiMedia\MainGame\MainGame\obj\Debug\MainGame.CSora.resources
